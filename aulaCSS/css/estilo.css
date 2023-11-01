@@ -1,0 +1,39 @@
+body{
+    background: purple
+    url("../img/inicial.jpg");
+    background-size: cover;
+
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    border: solid black;
+    background-color: rgb(59, 2, 134);
+    padding: 40px;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+    border: solid black;
+    color: aliceblue;
+    background-color: rgb(238, 88, 133);
+    text-decoration:underline;
+    text-indent: 40px;
+    letter-spacing: 3px;
+    line-height: 1.2;
+    word-spacing: 15px;
+}
+.inicial{
+    height: 300px;
+    background: black url("../img/inicial.jpg")
+     ;
+}
+.botao{
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    background-color: pink;
+    margin-left: 43%;
+    text-decoration: none;
+}

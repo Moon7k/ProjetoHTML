@@ -1,0 +1,46 @@
+body{
+    background: rgb(0, 0, 0);
+}
+
+h1{
+    color:#2c069c;
+    text-align: center;
+    border: 7px solid black;
+    border-radius: 20px;
+    background-color: deeppink;
+    margin: none;
+    padding: 50px;  
+}
+p{
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+    margin: 0 50px 20px 50px;
+    padding: 40px;
+    text-align: center;
+    
+}
+.back{
+    
+    height: 600px;
+    background-color: aquamarine;
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+    background: aquamarine url("../img/mar.jpg") no-repeat center;
+    background-size: cover;
+    padding:10px 70px 250px 40px;
+    
+
+}
+.botao{
+    margin-left: 44%;
+    background: violet;
+    color:white;
+    padding: 40px;
+}
+.botao:hover{
+    background: palevioletred;
+}
